@@ -6,6 +6,7 @@ import util.Constant;
 import java.io.*;
 import java.net.InetSocketAddress;
 import java.net.Socket;
+import java.util.HashMap;
 
 /**
  * 多人聊天室客户端
